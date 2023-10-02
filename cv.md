@@ -21,12 +21,12 @@ I'm a highly motivated engineer aimed at improving my soft and hard skills and p
 * Reliability
 *Hard skills*:
 1. Programming languages:
-   * Python ![20%](https://progress-bar.dev/50)
-   * Java ![20%](https://progress-bar.dev/50)
-   * C# ![10%](https://progress-bar.dev/50)
-   * JavaScript(Typescript) ![15%](https://progress-bar.dev/50)
+   * Python ![20%](https://progress-bar.dev/20)
+   * Java ![20%](https://progress-bar.dev/20)
+   * C# ![10%](https://progress-bar.dev/10)
+   * JavaScript(Typescript) ![15%](https://progress-bar.dev/15)
 2. Frameworks:
-   * Angular ![0%](https://progress-bar.dev/50)
+   * Angular ![0%](https://progress-bar.dev/0)
 3. Methodologies:
    * Agile methodology ![50%](https://progress-bar.dev/50)
 4. Version control systems:
