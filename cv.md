@@ -1,7 +1,7 @@
 # **ALIAKSEI MASHKO**
 ## WEB DEVELOPER
 ![Profile image wasn't loaded](/images/profile_image.png)
-## **CONTACT ME:**
+## **CONTACT ME**
 ![?](/images/phone_icon.png): +375296218331
 
 ![?](/images/skype_logo.png): live:prestigio458
@@ -16,7 +16,8 @@ I'm a highly motivated engineer aimed at improving my soft and hard skills and p
 * Conflict management
 * Decision making
 * Problem solving
-* Reliability  
+* Reliability
+  
 *Hard skills*:
 1. Programming languages:
    * Python ![20%](https://progress-bar.dev/20)
@@ -31,19 +32,33 @@ I'm a highly motivated engineer aimed at improving my soft and hard skills and p
    * Git ![50%](https://progress-bar.dev/50)
 5. IDE's:
    * VS Code ![50%](https://progress-bar.dev/50)
+
 ## **JOB EXPERIENCE**
 **MIDDLE AQA ENGINEER**
-2020 - Present
+
+2021 - Present
+
 *ITechArt Group / Minsk*
+
 ## **EDUCATION**
 **ITECHART STUDENTS LAB**
+
 *JUNIOR AQA ENGINEER*
-2020 - 2021  
+
+2020 - 2021
+
+
 **CISCO CCNA COURSE**
+
 *CISCO CERTIFIED NETWORK ASSOCIATE*
-2020 - 2021  
+
+2020 - 2021
+
+
 **BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS**
+
 *BACHELOR DEGREE GRADUATE*
+
 2017 - 2021
 ## LANGUAGE
 
