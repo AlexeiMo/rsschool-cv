@@ -23,15 +23,15 @@ I'm a highly motivated engineer aimed at improving my soft and hard skills and p
    * Python ![20%](https://progress-bar.dev/20)
    * Java ![20%](https://progress-bar.dev/20)
    * C# ![10%](https://progress-bar.dev/10)
-   * JavaScript(Typescript) ![35%](https://progress-bar.dev/15)
+   * JavaScript(Typescript) ![35%](https://progress-bar.dev/35)
 2. Frameworks:
    * Angular ![0%](https://progress-bar.dev/0)
 3. Methodologies:
    * Agile methodology ![50%](https://progress-bar.dev/50)
 4. Version control systems:
-   * Git ![85%](https://progress-bar.dev/50)
+   * Git ![85%](https://progress-bar.dev/85)
 5. IDE's:
-   * VS Code ![75%](https://progress-bar.dev/50)
+   * VS Code ![75%](https://progress-bar.dev/75)
 
 ## **JOB EXPERIENCE**
 **MIDDLE AQA ENGINEER**
