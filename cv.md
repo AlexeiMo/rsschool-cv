@@ -55,6 +55,11 @@ I'm a highly motivated engineer aimed at improving my soft and hard skills and p
 2020 - 2021
 
 
+**EPAM JAVA CORE COURSE**
+
+2019
+
+
 **BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS**
 
 *BACHELOR DEGREE GRADUATE*
